@@ -18,7 +18,7 @@ p{
   padding: 0;
 }
 .left-panel {
-  background-image: url("/images/1.png");
+  background-image: url("../images/1.png");
   background-position-x: -25rem;
   width: 40vw;
   height: 100vh;
@@ -28,7 +28,7 @@ p{
   justify-content: center;
 }
 .right-panel {
-  background-image: url("/images/3.png");
+  background-image: url("../images/3.png");
   width: 60vw;
   height: 100vh;
   margin: 0;
@@ -206,9 +206,9 @@ text-decoration: line-through;
 }
 
 .sticker{
-    position: absolute;
-    bottom: 0;
-    right: 0;
+   position: absolute;
+  bottom: 0;
+  right: 0;
 }
 .sticker>img{
     width: 100px;
