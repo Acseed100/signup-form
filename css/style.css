@@ -204,3 +204,12 @@ text-decoration: line-through;
     font-family: "Permanent marker", cursive;
     font-size: 25px;
 }
+
+.sticker{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+.sticker>img{
+    width: 100px;
+}
